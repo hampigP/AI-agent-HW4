@@ -1,0 +1,14 @@
+# PDF Processing
+pdfplumber
+
+# Graph Database Driver
+neo4j
+
+# LLM Framework & Google Gemini Integration
+langchain
+langchain-google-genai
+langchain-core
+google-generativeai
+
+# Environment Variables Management
+python-dotenv
