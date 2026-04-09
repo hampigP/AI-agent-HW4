@@ -1,7 +1,7 @@
 # Assignment 4: KG-based QA for NCU Regulations
 
 ## Due Date
-April 12 - April 25, 2026
+April 9 - April 23, 2026
 
 ## TA Names
 簡資烜, 葛亭妤
