@@ -18,8 +18,8 @@ from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 from typing import Any
 
 # ── Configuration ────────────────────────────────────────────────────────────
-MODEL_ID = "Qwen/Qwen2.5-3B-Instruct"
-MODEL_CACHE_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "hf_model_cache")
+MODEL_ID = "Qwen/Qwen2.5-1.5B-Instruct"
+MODEL_CACHE_DIR = r"C:\hf_cache"
 MAX_NEW_TOKENS = 512
 # ─────────────────────────────────────────────────────────────────────────────
 
